@@ -1,0 +1,13 @@
+"","SL-12","SL-12 (log)","SL-12 (all)","SL-90","SL-90 (log)","SL-90 (all)"
+"bayesglm Bayesian generalized linear model",0.063,0.102,0.104,0.039,0.003,0.042
+"earth Multivariate adaptive regression splines",0.022,0.007,0.086,0.103,0.068,0.053
+"gam Generalized additive model",0.144,0.05,0.07,0.036,0.003,0.033
+"gbm Generalized boosted model",0.281,0.131,0.134,0.282,0.294,0.373
+"glm Generalized linear model",0.072,0.109,0.093,0.039,0.003,0.02
+"glmnet Regularized generalized linear model",0,0.079,0.155,0.088,0.02,0.05
+"ipredbagg Bagging trees",0.07,0.002,0.075,0,0.035,0.027
+"nnet Neural network",0.034,0.116,0.044,0.179,0.334,0.108
+"polymars Multivariate adaptive polynomial spline regression",0.079,0.2,0.101,0.136,0.056,0.089
+"randomForest Random forest",0.235,0.179,0.139,0.092,0.15,0.147
+"rpart Recursive partitioning tree",0,0.025,0,0.005,0.033,0.058
+"svm Support vector machine",0,0,0,0,0,0
