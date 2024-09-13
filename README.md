@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce the results presented in the paper 
 
-> **Charu V, Liang JW, Mannalithara A, Kwong A, Tian, Lu, and Kim, RW. Benchmarking clinical risk prediction algorithms with ensemble machine learning: An illustration of the superlearner algorithm for the non-invasive diagnosis of liver fibrosis in non-alcoholic fatty liver disease. 2024.**
+> **Charu V, Liang JW, Mannalithara A, Kwong A, Tian, Lu, and Kim, WR. Benchmarking clinical risk prediction algorithms with ensemble machine learning: An illustration of the superlearner algorithm for the non-invasive diagnosis of liver fibrosis in non-alcoholic fatty liver disease. 2024.**
 
 Original repo with commit history can be found [here](https://github.com/janewliang/NAFLD_superlearner). 
 
